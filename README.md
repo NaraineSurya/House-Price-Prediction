@@ -42,10 +42,10 @@ I have cleaned the data by:
 You can try out this model using the California housing prices dataset available on Kaggle: [California Housing Prices Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
 ## Accuracy
-- Linear Regression: 0.6687407117584969
-- Linear Regression (After Scaling): 0.6692303774756764
-- RandomForestRegressor: 0.7649087057809763
-- GridSearchCV RandomForestRegressor: 0.771010764128469
+- Linear Regression: 0.6687407117584969 (66.87%)
+- Linear Regression (After Scaling): 0.6692303774756764 (66.92%)
+- RandomForestRegressor: 0.7649087057809763 (76.49%)
+- GridSearchCV RandomForestRegressor: 0.771010764128469 (77.1%)
 
 ## Status
 The project has been completed successfully, providing valuable insights into data analysis concepts and data science methodologies.
